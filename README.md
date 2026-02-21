@@ -48,17 +48,6 @@ npm run develop
 
 
 
-
-### 4. Expo (React Native) Application
-Folder: `my-expo-app`
-
-Description:  
-A mobile application built with Expo and React Native to explore cross-platform mobile development.
-
-How to Run:
-
-
-
 ### 4. Expo (React Native) Application
 Folder: `my-expo-app`
 
@@ -85,6 +74,5 @@ After running Expo:
 - Remix
 - Gatsby
 - Expo (React Native)
-- Node.js
 - npm
 
